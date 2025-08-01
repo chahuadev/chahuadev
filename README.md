@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chahuadev/chahuadev/main/icon.jpg" alt="Chahuadev Logo" width="200"/>
+  <img src="[https://raw.githubusercontent.com/chahuadev/chahuadev/main/icon.jpg" alt="Chahuadev Logo" width](https://avatars.githubusercontent.com/u/212290578?s=400&u=9a5d8ecb51bf67e3255cb350457497ecd3b850ec&v=4)="200"/>
   <h1>CHAHUADEV</h1>
   <p><strong>FROM CHAOS TO CODE</strong></p>
 </div>
