@@ -23,7 +23,7 @@ The **Chahuadev Framework** is a powerful plugin management system designed for 
 * 🔑 **Built-in License Management:** Comes with a ready-to-use system for creating and validating software licenses.
 * 🛠️ **Developer-Focused Tools:** Includes an integrated debugger and powerful command-line tools to streamline the development process.
 
-> You can check out the [Chahuadev Framework repository here](https://github.com/chahuadev/chahuadev-framework) *(<-- แก้ไขลิงก์เมื่อคุณอัปโหลดโปรเจกต์แล้ว)*
+> You can check out the [Chahuadev Framework repository here](https://github.com/chahuadev/chahuadev-framework)
 
 ---
 
