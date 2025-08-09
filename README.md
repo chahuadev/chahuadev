@@ -6,30 +6,30 @@
 
 ---
 
-### 👋 Hi there, I'm Saharath C. (@chahuadev)
+### 👋 สวัสดีครับ ผม สหรัฐ ช. (@chahuadev)
 
-I'm a software developer from Thailand with a passion for transforming complex problems into simple, elegant, and secure software solutions.
+ผมเป็นนักพัฒนาซอฟต์แวร์จากประเทศไทย ที่มีความหลงใหลในการแปลงปัญหาที่ซับซ้อนให้กลายเป็นโซลูชันซอฟต์แวร์ที่เรียบง่าย สวยงาม และปลอดภัย
 
-At the heart of my work is the **Chahuadev Framework**, a desktop application framework I built from the ground up.
-
----
-
-### 🚀 My Flagship Project: Chahuadev Framework
-
-The **Chahuadev Framework** is a powerful plugin management system designed for desktop applications, with a core focus on security and ease of use. It's the embodiment of my "From Chaos to Code" philosophy.
-
-* 🛡️ **Fort-Knox Level Security:** Features advanced security systems like anti-debugging, IPC command sanitization, and runtime integrity checks to protect the application and its users.
-* 🔌 **Smart Plugin System:** Easily manage, scan, and integrate plugins into your projects.
-* 🔑 **Built-in License Management:** Comes with a ready-to-use system for creating and validating software licenses.
-* 🛠️ **Developer-Focused Tools:** Includes an integrated debugger and powerful command-line tools to streamline the development process.
-
-> You can check out the [Chahuadev Framework repository here](https://github.com/chahuadev/chahuadev-framework)
+หัวใจสำคัญของงานของผมคือ **Chahuadev Framework** ซึ่งเป็นเฟรมเวิร์คสำหรับแอปพลิเคชันเดสก์ท็อปที่ผมสร้างขึ้นตั้งแต่เริ่มต้น
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🚀 โปรเจคหลักของผม: Chahuadev Framework
 
-Here are some of the technologies I work with:
+**Chahuadev Framework** เป็นระบบจัดการปลั๊กอินที่ทรงพลังสำหรับแอปพลิเคชันเดสก์ท็อป โดยเน้นความปลอดภัยและความง่ายในการใช้งานเป็นหลัก ซึ่งเป็นการสะท้อนปรัชญา "From Chaos to Code" ของผม
+
+* 🛡️ **ความปลอดภัยระดับ Fort-Knox:** มีระบบรักษาความปลอดภัยขั้นสูง เช่น การป้องกันการ debug, การทำความสะอาดคำสั่ง IPC และการตรวจสอบความสมบูรณ์ของโปรแกรมระหว่างการทำงาน เพื่อปกป้องแอปพลิเคชันและผู้ใช้
+* 🔌 **ระบบปลั๊กอินอัจฉริยะ:** จัดการ สแกน และรวมปลั๊กอินเข้ากับโปรเจคของคุณได้อย่างง่ายดาย
+* 🔑 **การจัดการไลเซนส์ในตัว:** มาพร้อมกับระบบที่พร้อมใช้สำหรับสร้างและตรวจสอบไลเซนส์ซอฟต์แวร์
+* 🛠️ **เครื่องมือสำหรับนักพัฒนา:** รวมดีบักเกอร์ที่ผสานรวมและเครื่องมือบรรทัดคำสั่งที่ทรงพลังเพื่อปรับปรุงกระบวนการพัฒนา
+
+> คุณสามารถดู [Chahuadev Framework repository ได้ที่นี่](https://github.com/chahuadev/chahuadev-framework)
+
+---
+
+### 💻 เทคโนโลยีและเครื่องมือที่ใช้
+
+นี่คือเทคโนโลยีบางส่วนที่ผมใช้งาน:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -39,7 +39,7 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📫 How to Reach Me
+### 📫 ติดต่อผม
 
-* **Email:** `chahuadev@gmail.com`
-* Feel free to reach out if you're interested in collaborating or have any questions about my framework!
+* **อีเมล:** `chahuadev@gmail.com`
+* หากคุณสนใจในการร่วมงานหรือมีคำถามเกี่ยวกับเฟรมเวิร์คของผม อย่าลังเลที่จะติดต่อมาครับ!
