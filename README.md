@@ -33,7 +33,7 @@ At the heart of my work is the **Chahuadev Framework**, a desktop application fr
 *Emoji removal tool for JavaScript, TypeScript, and HTML*
 
 [![GitHub](https://img.shields.io/badge/GitHub-chahuadev--emoji--cleaner--tool-black?style=for-the-badge&logo=github)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool)
-[![npm](https://img.shields.io/badge/npm-@chahuadev/emoji--cleaner-red?style=f or-the-badge&logo=npm)](https://www.npmjs.com/package/@chahuadev/emoji-cleaner)
+[![npm](https://img.shields.io/badge/npm-@chahuadev/emoji--cleaner-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@chahuadev/emoji-cleaner)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool/blob/main/LICENSE)
 
 </div>
@@ -65,9 +65,10 @@ Here are some of the technologies I use:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shi elds.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 ### 📫 Contact me
@@ -75,6 +76,10 @@ Here are some of the technologies I use:
 * **Email:** `chahuadev@gmail.com`
 * If you're interested in collaborating or have questions about my framework, please don't hesitate to contact me!
 </div>
+
+
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/chahuadev/chahuadev/main/icon.png" alt="Chahuadev Logo" width="200"/>
