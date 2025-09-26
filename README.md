@@ -24,41 +24,6 @@ At the heart of my work is the **Chahuadev Framework**, a desktop application fr
 
 ---
 
-### 🛠️ Special Tools
-
-<div align="center">
-
-**🧹 Chahuadev Emoji Cleaner**
-
-*Emoji removal tool for JavaScript, TypeScript, and HTML*
-
-[![GitHub](https://img.shields.io/badge/GitHub-chahuadev--emoji--cleaner--tool-black?style=for-the-badge&logo=github)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool)
-[![npm](https://img.shields.io/badge/npm-@chahuadev/emoji--cleaner-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@chahuadev/emoji-cleaner)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool/blob/main/LICENSE)
-
-</div>
-
-**Key Features:**
-* 🎯 Automatically removes emoji from code files
-* 🔍 Supports dry-run mode for security
-* 💾 File backup system
-* 📦 Use via CLI or npm package
-* ⚡ Tested on large projects
-
-**Usage:**
-```bash
-# Use immediately
-npx @chahuadev/emoji-cleaner
-
-# Check before deleting
-npx @chahuadev/emoji-cleaner . --dry-run
-
-# Install globally
-npm install -g @chahuadev/emoji-cleaner
-```
-
----
-
 ### Technologies and tools used
 
 Here are some of the technologies I use:
@@ -105,42 +70,6 @@ Here are some of the technologies I use:
 *  **ระบบปลั๊กอินอัจฉริยะ:** จัดการ สแกน และรวมปลั๊กอินเข้ากับโปรเจคของคุณได้อย่างง่ายดาย
 *  **การจัดการไลเซนส์ในตัว:** มาพร้อมกับระบบที่พร้อมใช้สำหรับสร้างและตรวจสอบไลเซนส์ซอฟต์แวร์
 *  **เครื่องมือสำหรับนักพัฒนา:** รวมดีบักเกอร์ที่ผสานรวมและเครื่องมือบรรทัดคำสั่งที่ทรงพลังเพื่อปรับปรุงกระบวนการพัฒนา
-
----
-
-### 🛠️ เครื่องมือพิเศษ
-
-<div align="center">
-
-**🧹 Chahuadev Emoji Cleaner**
-
-*เครื่องมือลบอิโมจิในโค้ดสำหรับโปรเจ็กต์ JavaScript, TypeScript และ HTML*
-
-[![GitHub](https://img.shields.io/badge/GitHub-chahuadev--emoji--cleaner--tool-black?style=for-the-badge&logo=github)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool)
-[![npm](https://img.shields.io/badge/npm-@chahuadev/emoji--cleaner-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@chahuadev/emoji-cleaner)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool/blob/main/LICENSE)
-
-</div>
-
-**ฟีเจอร์เด่น:**
-* 🎯 ลบอิโมจิอัตโนมัติจากไฟล์โค้ด
-* 🔍 รองรับ dry-run mode เพื่อความปลอดภัย  
-* 💾 มีระบบสำรองไฟล์
-* 📦 ใช้งานผ่าน CLI หรือ npm package
-* ⚡ ทดสอบแล้วกับโปรเจ็กต์ขนาดใหญ่
-
-**การใช้งาน:**
-```bash
-# ใช้งานทันที
-npx @chahuadev/emoji-cleaner
-
-# ตรวจสอบก่อนลบ
-npx @chahuadev/emoji-cleaner . --dry-run
-
-# ติดตั้งแบบ global
-npm install -g @chahuadev/emoji-cleaner
-```
-
 
 ---
 
