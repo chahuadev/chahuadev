@@ -26,8 +26,6 @@ I'm the creator of the **Chahuadev Framework**, an ecosystem designed to automat
 
 Here are some of the projects I'm actively working on. Feel free to check them out and provide feedback!
 
-* **[Chahuadev Framework](https://github.com/chahuadev/chahuadev-framework)**
-    * A platform to unify and automate your entire development workflow, supporting multiple project types.
 * **[@chahuadev/fix-comments](https://github.com/chahuadev/chahuadev-fix-comments)**
     * A professional comment standardization tool with an AI-friendly format and advanced security features.
 * **[@chahuadev/emoji-cleaner](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool)**
