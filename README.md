@@ -220,13 +220,3 @@ Most of my projects are open-source and available under MIT License. Check indiv
 </div>
 
 ---
-
-##  Videos
-
-### My Development Journey
-<div align="center">
-  <video src="https://github.com/chahuadev/chahuadev/blob/main/chahuadev(2).mp4" width="480"></video>
-</div>
-
-
-</div>
