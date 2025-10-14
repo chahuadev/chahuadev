@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/chahuadev/chahuadev/main/chahuadev.jpg" alt="Chahuadev Logo" width="500"/>
+<img src="https://raw.githubusercontent.com/chahuadev/chahuadev/main/chahuadev.png" alt="Chahuadev Logo" width="500"/>
 <h1>CHAHUADEV</h1>
 <p><strong>Hi, I'm Chahua! </strong></p>
 </div>
@@ -221,20 +221,3 @@ Most of my projects are open-source and available under MIT License. Check indiv
 
 ---
 
-##  Videos
-
-<div align="center">
-
-### My Development Journey
-
-https://github.com/user-attachments/assets/chahuadev.mp4
-
-https://github.com/user-attachments/assets/chahuadev(2).mp4
-
-https://github.com/user-attachments/assets/chahuadev(3).mp4
-
-https://github.com/user-attachments/assets/chahuadev(4).mp4
-
-https://github.com/user-attachments/assets/chahuadev(5).mp4
-
-</div>
