@@ -147,7 +147,7 @@ I welcome contributions to all my projects! Especially:
 
 -  **GitHub**: [@chahuadev](https://github.com/chahuadev)
 -  **Organization**: [@chahuadev-com](https://github.com/chahuadev-com)
--  **Email**: Available upon request
+-  **Email**: chahuadev@gmail.com
 -  **Location**: Thailand 🇹🇭
 -  **Languages**: Thai (Native), English (Professional)
 
