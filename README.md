@@ -25,7 +25,7 @@ const chahua = {
   age: 38,
   codingSchedule: "06:00 - 14:00 (UTC+7)",
   philosophy: "Precision in cooking, precision in code",
-  languages: ["Thai 🇹🇭", "English 🇬🇧"],
+  languages: ["Thai ", "English "],
   dreamJob: "Full-stack Developer | DevOps Engineer"
 };
 ```
@@ -116,10 +116,10 @@ From the **heat of professional kitchens** to the **logic of code**, I bring the
 > "Just as a perfect dish requires patience, precision, and passion, so does great software. Every line of code is an ingredient, and every function is a recipe for solving problems."
 
 **From Kitchen to Keyboard:**
--  **Attention to Detail**: Learned from plating dishes → Applied to code quality
--  **Time Management**: Kitchen timing discipline → Efficient coding sessions
--  **Creativity**: Recipe innovation → Problem-solving approaches
--  **Pressure Handling**: High-volume service → Debugging under deadlines
+-  **Attention to Detail**: Learned from plating dishes  Applied to code quality
+-  **Time Management**: Kitchen timing discipline  Efficient coding sessions
+-  **Creativity**: Recipe innovation  Problem-solving approaches
+-  **Pressure Handling**: High-volume service  Debugging under deadlines
 
 ---
 
@@ -148,7 +148,7 @@ I welcome contributions to all my projects! Especially:
 -  **GitHub**: [@chahuadev](https://github.com/chahuadev)
 -  **Organization**: [@chahuadev-com](https://github.com/chahuadev-com)
 -  **Email**: chahuadev@gmail.com
--  **Location**: Thailand 🇹🇭
+-  **Location**: Thailand 
 -  **Languages**: Thai (Native), English (Professional)
 
 ---
