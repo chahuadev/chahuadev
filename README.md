@@ -1,6 +1,5 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/chahuadev/chahuadev/main/chahuadev.png" alt="Chahuadev Logo" width="500"/>
 <h1>CHAHUADEV</h1>
 <p><strong>Hi, I'm Chahua! </strong></p>
 </div>
